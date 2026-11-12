@@ -104,14 +104,12 @@ My first full-time role, in 2019, was native Android (Java, payments). I moved t
 **Version 10.0** &nbsp;<sub>Nov 2026</sub>
 
 ```diff
-+ Flutter Quest: gamified quiz app
-+ ShiftWell: HR for UAE shift teams
-+ Fetchr: open-source media saver
-+ RMS: UAE rental management
-~ Radius Crawler is now RadiusIQ
-~ GET now opens a real PDF CV
-- Removed the made-up 4.9 rating
-- Removed stat cards that kept breaking
++ Flutter Quest   gamified quiz: Flutter web + Android, NestJS game engine
++ ShiftWell       multi-tenant HR for UAE and GCC shift teams
++ Fetchr          open-source Android app built on yt-dlp
++ RMS             rental management for UAE landlords
+~ RadiusIQ        renamed from Radius Crawler (TomTom or Google Places)
+~ Open to         Forward Deployed Engineer roles
 ```
 
 <details>
@@ -120,7 +118,7 @@ My first full-time role, in 2019, was native Android (Java, payments). I moved t
 
 | Release | Notes |
 |---|---|
-| **10.0** · Nov 2026 | New products, honest numbers, self-made graphics |
+| **10.0** · Nov 2026 | Flutter Quest, ShiftWell, Fetchr and RMS shipped. Open to Forward Deployed Engineer roles |
 | **9.0** · Jul 2026 | Claude, GPT and Gemini inside real systems. Full-stack products on NestJS, Next.js and PostgreSQL |
 | **2023** | Mokutan, then Transport Systems LLC in Dubai |
 | **2021** | Flutter at SMT-Technology |
