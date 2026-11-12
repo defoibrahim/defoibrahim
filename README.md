@@ -1,5 +1,5 @@
 <!--
-defoibrahim / README.md — "App Store" edition
+defoibrahim / README.md — "App Store" edition, version 10.0 (Nov 2026)
 Renders on github.com/defoibrahim
 -->
 
@@ -23,181 +23,147 @@ Renders on github.com/defoibrahim
 
 </div>
 
----
+## Screenshots
 
-## 🆕 &nbsp;What's New
-
-**Version 9.0** · <sub>Jul 2026</sub>
-
-```diff
-+ AI-native builds in production
-+ Crawlers, agents, CI/CD
-+ NestJS · Next.js · Postgres
-~ Flutter dev → full product
-- Dead 2022 Heroku badges
-```
-
----
-
-## 📝 &nbsp;Description
-
-Eight years in, and the job keeps widening. I started native on Android, moved to Flutter,
-and now architect enterprise mobile apps at Transport Systems in Dubai — 70+ feature modules,
-real-time chat and VoIP, live GPS tracking, 188+ automated builds through Codemagic.
-
-Alongside that I ship full-stack products on my own: NestJS APIs, Next.js front-ends,
-PostgreSQL schemas, all containerised and running on my own infrastructure. Lately the
-interesting part is AI and automation — Claude, GPT and Gemini doing real work inside real
-systems, not demos. Crawlers, agents, ATS scoring engines, automated reporting. Claude does
-a lot of the heavy lifting in how I build now.
-
-> **"Perfection is achieved not when there is nothing more to add, but rather when there is nothing more to take away."**
-> — Antoine de Saint-Exupéry
-
----
-
-## 🛠 &nbsp;Requirements &nbsp;·&nbsp; Built With
+<sub>Real screens from my products. Tap one to open it.</sub>
 
 <table>
 <tr>
-<td valign="top" width="50%">
-
-**🤖 AI & Automation**
-
-![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=claude&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
-![MCP](https://img.shields.io/badge/MCP-D97757?style=flat-square&logo=modelcontextprotocol&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-
-<sub>🏅 <b>Anthropic certified</b> — Claude Code in Action · Building with the Claude API · Model Context Protocol · Agent Skills</sub>
-
+<td width="33%" valign="top">
+<a href="https://quest.everbuild.cloud"><img src="https://portfolio.everbuild.cloud/uploads/78af0515-8d4d-41fc-ae3b-5a8c170cb6e5.png" width="280" alt="Flutter Quest: quiz, XP and results screens"></a>
+<br><b><a href="https://quest.everbuild.cloud">Flutter Quest</a></b>
+<br><sub>Gamified quiz. Flutter on web and Android, NestJS game engine. <a href="https://github.com/defoibrahim/flutter-quest-showcase">Repo</a></sub>
 </td>
-<td valign="top" width="50%">
-
-**⚙️ Backend & Data**
-
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
-
+<td width="33%" valign="top">
+<a href="https://shiftwell.everbuild.cloud"><img src="https://portfolio.everbuild.cloud/uploads/bd622f08-3a44-4717-99a5-3d7d0352e12f.png" width="280" alt="ShiftWell: punch-in, history and profile screens"></a>
+<br><b><a href="https://shiftwell.everbuild.cloud">ShiftWell</a></b>
+<br><sub>Multi-tenant HR for UAE and GCC shift teams. <a href="https://github.com/defoibrahim/shiftwell-showcase">Repo</a></sub>
+</td>
+<td width="33%" valign="top">
+<a href="https://github.com/defoibrahim/fetchr-app/releases/latest"><img src="https://portfolio.everbuild.cloud/uploads/b3251ab7-b787-44be-8c04-527f494d1fe9.png" width="280" alt="Fetchr: paste a link, pick a quality, download"></a>
+<br><b><a href="https://github.com/defoibrahim/fetchr-app">Fetchr</a></b>
+<br><sub>Open-source Android app. Paste a link, get the file.</sub>
 </td>
 </tr>
 <tr>
-<td valign="top" width="50%">
-
-**📱 Mobile**
-
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
-![BLoC](https://img.shields.io/badge/BLoC-2196F3?style=flat-square&logo=flutter&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-
+<td width="33%" valign="top">
+<a href="https://radius.everbuild.cloud"><img src="https://portfolio.everbuild.cloud/uploads/277df48e-2f59-4bf9-9dda-5785ca9f77eb.webp" width="280" alt="RadiusIQ: a search radius drawn on a map"></a>
+<br><b><a href="https://radius.everbuild.cloud">RadiusIQ</a></b>
+<br><sub>Every business inside a 1 to 50 km radius. <a href="https://github.com/defoibrahim/radiusiq-showcase">Repo</a></sub>
 </td>
-<td valign="top" width="50%">
-
-**🌐 Web & Infrastructure**
-
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
-
+<td width="33%" valign="top">
+<a href="https://resume.everbuild.cloud"><img src="https://portfolio.everbuild.cloud/uploads/7749e5a3-80c3-402d-a589-110cfea16c2b.webp" width="280" alt="ResumeCraft AI: editor with live PDF preview"></a>
+<br><b><a href="https://resume.everbuild.cloud">ResumeCraft AI</a></b>
+<br><sub>Resume builder with live PDF preview and bring-your-own-key AI. <a href="https://github.com/defoibrahim/resumecraft-ai-showcase">Repo</a></sub>
+</td>
+<td width="33%" valign="top">
+<a href="https://rms.everbuild.cloud"><img src="https://portfolio.everbuild.cloud/uploads/866d290c-cf56-46b9-900d-4d3c09e64594.png" width="280" alt="RMS: landlord dashboard with buildings, units and payments"></a>
+<br><b><a href="https://rms.everbuild.cloud">RMS</a></b>
+<br><sub>Rental management for UAE shared housing. <a href="https://github.com/defoibrahim/rms-showcase">Repo</a></sub>
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top">
+<a href="https://hrm.everbuild.cloud"><img src="https://portfolio.everbuild.cloud/uploads/0956c8a0-965e-4682-902b-4f7a8c214268.png" width="280" alt="HRM Platform: attendance dashboard"></a>
+<br><b><a href="https://hrm.everbuild.cloud">HRM Platform</a></b>
+<br><sub>Attendance, shifts and leave for multiple companies. <a href="https://github.com/defoibrahim/hrm-platform-showcase">Repo</a></sub>
+</td>
+<td width="33%" valign="top">
+<a href="https://pub.dev/packages/yalla_pay_sudan"><img src="https://portfolio.everbuild.cloud/uploads/830210d0-2e3e-4839-ab2b-520ac46314ec.png" width="280" alt="YallaPay Sudan SDK: in-app checkout screens"></a>
+<br><b><a href="https://pub.dev/packages/yalla_pay_sudan">YallaPay Sudan SDK</a></b>
+<br><sub>Flutter payments SDK on pub.dev, 150/160 points. <a href="https://github.com/defoibrahim/yallapaysudan-flutter">Repo</a></sub>
+</td>
+<td width="33%" valign="top">
+<a href="https://github.com/defoibrahim/dsms-showcase"><img src="https://portfolio.everbuild.cloud/uploads/ae7fe32f-ceb4-44d9-ba63-cdf87bfff88f.png" width="280" alt="DSMS: driving school admin app screens"></a>
+<br><b><a href="https://github.com/defoibrahim/dsms-showcase">DSMS</a></b>
+<br><sub>Driving school scheduling, commissions and payouts.</sub>
 </td>
 </tr>
 </table>
 
----
+<sub>Showcase repos hold the docs and screenshots; Fetchr and the YallaPay SDK are fully open source. Older Flutter client apps (OneMile, HalalGo, CleanApp SD) are on the <a href="https://portfolio.everbuild.cloud">portfolio</a>.</sub>
 
-## 📸 &nbsp;Screenshots
+## Description
 
-<div align="center">
+I build products end to end: start from the customer's problem, ship the app, the backend and the AI behind it, then run it in production. 8+ years of that, across logistics, HR, business intelligence and AI.
 
-<img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api?username=defoibrahim&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=007AFF&icon_color=5856D6&text_color=C9D1D9&bg_color=0D1117"/>
-<img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=defoibrahim&hide=c%2B%2B,cmake,c&layout=compact&langs_count=8&hide_border=true&title_color=007AFF&text_color=C9D1D9&bg_color=0D1117"/>
+By day I architect the mobile layer of a transport platform in Dubai (driver, operator and admin apps). On my own I ship full-stack products on NestJS, Next.js and PostgreSQL, with Claude, GPT and Gemini doing real work inside them. Every live demo runs on my own servers under `everbuild.cloud`.
 
-</div>
+**Looking for:** Forward Deployed Engineer roles, where the job is to sit with a customer, find the real problem and ship the fix. Flutter is a strength, not the boundary.
 
----
+<details>
+<summary><b>more</b></summary>
+<br>
 
-## 📦 &nbsp;More By This Developer
+My first full-time role, in 2019, was native Android (Java, payments). I moved to Flutter in 2020, and mobile is still the part I know deepest. The rest came from shipping whole products: APIs, database schemas, admin panels, Docker, Nginx and CI on GitHub Actions. Claude Code and MCP are part of how I build every day, and in 2026 I took Anthropic's courses on Claude Code, the Claude API, MCP and Agent Skills.
 
-<div align="center">
+</details>
 
-<a href="https://github.com/defoibrahim/flutter-quest-showcase"><img width="400" align="top" alt="Flutter Quest" src="assets/cards/flutter-quest.png"/></a>
-<a href="https://github.com/defoibrahim/fetchr-app"><img width="400" align="top" alt="Fetchr" src="assets/cards/fetchr.png"/></a>
-<a href="https://github.com/defoibrahim/shiftwell-showcase"><img width="400" align="top" alt="ShiftWell" src="assets/cards/shiftwell.png"/></a>
-<a href="https://github.com/defoibrahim/radiusiq-showcase"><img width="400" align="top" alt="RadiusIQ" src="assets/cards/radius-crawler.png"/></a>
-<a href="https://github.com/defoibrahim/resumecraft-ai-showcase"><img width="400" align="top" alt="ResumeCraft AI" src="assets/cards/resumecraft-ai.png"/></a>
-<a href="https://github.com/defoibrahim/rms-showcase"><img width="400" align="top" alt="RMS" src="assets/cards/rms.png"/></a>
-<a href="https://github.com/defoibrahim/dsms-showcase"><img width="400" align="top" alt="DSMS" src="assets/cards/dsms-driving-school-management.png"/></a>
-<a href="https://github.com/defoibrahim/hrm-platform-showcase"><img width="400" align="top" alt="HRM Platform" src="assets/cards/hrm-platform.png"/></a>
-<a href="https://github.com/defoibrahim/yallapaysudan-flutter"><img width="400" align="top" alt="YallaPay Sudan Flutter SDK" src="assets/cards/yalla-pay-sudan-flutter-sdk.png"/></a>
-<a href="https://github.com/defoibrahim/marketpulse-flutter"><img width="400" align="top" alt="MarketPulse" src="assets/cards/marketpulse.png"/></a>
+## What's New
 
-<sub>Click any card to open the project. More on <a href="https://portfolio.everbuild.cloud/projects">portfolio.everbuild.cloud</a></sub>
+**Version 10.0** &nbsp;<sub>Nov 2026</sub>
 
-</div>
+```diff
++ Flutter Quest: gamified quiz app
++ ShiftWell: HR for UAE shift teams
++ Fetchr: open-source media saver
++ RMS: UAE rental management
+~ Radius Crawler is now RadiusIQ
+~ GET now opens a real PDF CV
+- Removed the made-up 4.9 rating
+- Removed stat cards that kept breaking
+```
 
-### Client work
+<details>
+<summary><b>Version History</b></summary>
+<br>
 
-| Product | What it does |
-| --- | --- |
-| **CleanApp SD**<br/><sub>Flutter · GetX · Firebase · Maps SDK</sub> | Three-app laundry ecosystem with QR-based order validation and geofenced assignment |
-| **OneMile**<br/><sub>Flutter · GetX · Maps SDK</sub> | Location-based offer discovery, optimised with cluster markers for dense data |
-| **HalalGo**<br/><sub>Flutter · Provider · Firebase</sub> | Halal food delivery for the Canadian market, with live delivery tracking |
+| Release | Notes |
+|---|---|
+| **10.0** · Nov 2026 | New products, honest numbers, self-made graphics |
+| **9.0** · Jul 2026 | Claude, GPT and Gemini inside real systems. Full-stack products on NestJS, Next.js and PostgreSQL |
+| **2023** | Mokutan, then Transport Systems LLC in Dubai |
+| **2021** | Flutter at SMT-Technology |
+| **2020** | Flutter at F5-ICT: the fCar ride-hailing apps |
+| **2019** | First full-time role: native Android (Java) and payments at Almotakamla |
+| **2018** | Went independent: products end to end, for myself and for clients |
 
----
+</details>
 
-## ℹ️ &nbsp;Information
+## Information
 
 | | |
 |---|---|
-| **Developer** | Dafallah Ibrahim ([@defoibrahim](https://github.com/defoibrahim)) |
-| **Category** | Full-Stack Engineering · AI & Automation · Mobile |
-| **Compatibility** | Flutter 3.x · Android · iOS · Node 18+ · PostgreSQL · Docker |
-| **Languages** | Dart, TypeScript, Python, Kotlin, Java, JavaScript, SQL |
-| **Size** | 8+ years · 13 products shipped end to end |
-| **Location** | Dubai, United Arab Emirates 🇦🇪 |
+| **Developer** | Dafallah Ibrahim · [@defoibrahim](https://github.com/defoibrahim) |
+| **Category** | Product engineering: mobile, backend, web and AI |
+| **Currently** | Senior Flutter Developer, Transport Systems LLC, Dubai (since Mar 2023) |
+| **Open to** | Forward Deployed Engineer roles |
+| **Compatibility** | **Mobile** Flutter · Dart · Kotlin · Android · iOS · BLoC · Riverpod · GetX · Firebase<br>**Backend** NestJS · Node.js · TypeScript · PostgreSQL · Prisma · MySQL · Redis · Laravel<br>**Web** Next.js · React · Vue · Tailwind<br>**AI** Claude API · OpenAI · Gemini · MCP · n8n<br>**Infra** Docker · Nginx · GitHub Actions · self-hosted VPS |
+| **Age Rating** | 8+ years. Independent since 2018, full-time since 2019 |
+| **Location** | Dubai, United Arab Emirates. Originally from Khartoum, Sudan |
+| **Courses** | **Anthropic (2026)** Claude Code in Action · Building with the Claude API · Introduction to Model Context Protocol · Introduction to Agent Skills<br>**LinkedIn (2024)** Software Architecture: Patterns for Developers |
 | **Website** | [portfolio.everbuild.cloud](https://portfolio.everbuild.cloud) |
-| **Certifications** | **Anthropic (2026)** — Claude Code in Action · Building with the Claude API · Introduction to Model Context Protocol · Introduction to Agent Skills<br/>**LinkedIn (2024)** — Software Architecture: Patterns for Developers |
-| **Currently** | Senior Software Engineer @ Transport Systems, building AI-native products on the side |
-| **Support** | [dafallah.ibrahim1@gmail.com](mailto:dafallah.ibrahim1@gmail.com) |
+| **CV** | [dafallah-ibrahim-cv.pdf](https://portfolio.everbuild.cloud/dafallah-ibrahim-cv.pdf) |
+| **Copyright** | © 2018–2026 Dafallah Ibrahim |
 
----
-
-## 💳 &nbsp;In-App Purchases
+## In-App Purchases
 
 | | |
 |---|---|
-| ☕ &nbsp;Coffee chat about Flutter or clean architecture | **Free** |
-| 🤖 &nbsp;How I actually use Claude to build and ship | **Free** |
-| 🐛 &nbsp;Bug report on anything I've shipped | **Free** |
-| 🚀 &nbsp;Build your product end to end | **[Let's talk →](mailto:dafallah.ibrahim1@gmail.com)** |
+| Coffee chat about Flutter, NestJS or shipping a product end to end | **Free** |
+| How I use Claude Code and MCP day to day | **Free** |
+| A bug report on anything I've shipped | **Free** |
+| A Forward Deployed Engineer on your customer's problem | **[Let's talk](mailto:dafallah.ibrahim1@gmail.com)** |
+| Your product, built and run end to end | **[Let's talk](mailto:dafallah.ibrahim1@gmail.com)** |
 
----
+## App Privacy
 
-## 🔐 &nbsp;App Privacy
+| | |
+|---|---|
+| **Data Shared Publicly** | Showcase repos: docs and screenshots. Fetchr and the YallaPay SDK in full. |
+| **Data Not Linked to You** | Production source and client platforms. Private, but happy to walk you through them. |
+| **Data Not Collected** | No view counter, no tracker, no third-party stat cards on this page. |
 
-<samp>The developer indicates that most of the good stuff lives in private repositories.
-Client platforms, AI pipelines and internal tooling are not linked to your identity —
-or visible to you at all. Ask nicely and a demo may be arranged.</samp>
+<br>
 
----
-
-<div align="center">
-
-<sub>⭐️ If something here was useful, a star costs nothing and means a lot.</sub>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=defoibrahim&color=007AFF&style=flat-square&label=Profile+Views"/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:AF52DE,50:5856D6,100:007AFF&height=120&section=footer" width="100%"/>
-
-</div>
+<p align="center"><sub>Version 10.0 · Nov 2026 · Self-made SVGs.</sub></p>
