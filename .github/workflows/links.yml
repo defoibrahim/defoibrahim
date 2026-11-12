@@ -1,0 +1,35 @@
+# Checks that every link and image in the profile README still works:
+# live demos, repos, the CV PDF and the SVG assets. Fails only on real breakage.
+name: Check links
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+  schedule:
+    - cron: "0 6 * * 1" # every Monday, to catch a demo or URL that went down
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  links:
+    name: README links
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          persist-credentials: false
+
+      - name: Check links with lychee
+        uses: lycheeverse/lychee-action@e7477775783ea5526144ba13e8db5eec57747ce8 # v2.9.0
+        with:
+          # 429: rate limited, not broken. 999: LinkedIn's reply to bots.
+          args: >-
+            --no-progress
+            --max-retries 3
+            --accept '200..=299,429,999'
+            README.md
+          fail: true
