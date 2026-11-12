@@ -160,8 +160,12 @@ a lot of the heavy lifting in how I build now.
 
 <div align="center">
 
-<a href="https://github.com/defoibrahim/3d_drawer"><img width="45%" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=defoibrahim&repo=3d_drawer&hide_border=true&title_color=007AFF&text_color=C9D1D9&icon_color=5856D6&bg_color=0D1117"/></a>
-<a href="https://github.com/defoibrahim/yallapaysudan-flutter"><img width="45%" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=defoibrahim&repo=yallapaysudan-flutter&hide_border=true&title_color=007AFF&text_color=C9D1D9&icon_color=5856D6&bg_color=0D1117"/></a>
+<a href="https://github.com/defoibrahim/flutter-quest-showcase"><img width="45%" alt="flutter-quest-showcase" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=defoibrahim&repo=flutter-quest-showcase&hide_border=true&title_color=007AFF&text_color=C9D1D9&icon_color=5856D6&bg_color=0D1117"/></a>
+<a href="https://github.com/defoibrahim/fetchr-app"><img width="45%" alt="fetchr-app" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=defoibrahim&repo=fetchr-app&hide_border=true&title_color=007AFF&text_color=C9D1D9&icon_color=5856D6&bg_color=0D1117"/></a>
+<a href="https://github.com/defoibrahim/shiftwell-showcase"><img width="45%" alt="shiftwell-showcase" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=defoibrahim&repo=shiftwell-showcase&hide_border=true&title_color=007AFF&text_color=C9D1D9&icon_color=5856D6&bg_color=0D1117"/></a>
+<a href="https://github.com/defoibrahim/radiusiq-showcase"><img width="45%" alt="radiusiq-showcase" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=defoibrahim&repo=radiusiq-showcase&hide_border=true&title_color=007AFF&text_color=C9D1D9&icon_color=5856D6&bg_color=0D1117"/></a>
+<a href="https://github.com/defoibrahim/resumecraft-ai-showcase"><img width="45%" alt="resumecraft-ai-showcase" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=defoibrahim&repo=resumecraft-ai-showcase&hide_border=true&title_color=007AFF&text_color=C9D1D9&icon_color=5856D6&bg_color=0D1117"/></a>
+<a href="https://github.com/defoibrahim/yallapaysudan-flutter"><img width="45%" alt="yallapaysudan-flutter" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=defoibrahim&repo=yallapaysudan-flutter&hide_border=true&title_color=007AFF&text_color=C9D1D9&icon_color=5856D6&bg_color=0D1117"/></a>
 
 </div>
 
