@@ -140,26 +140,30 @@ a lot of the heavy lifting in how I build now.
 
 ## 📦 &nbsp;More By This Developer
 
+<div align="center">
+
+<a href="https://github.com/defoibrahim/flutter-quest-showcase"><img width="400" align="top" alt="Flutter Quest" src="assets/projects/flutter-quest.png"/></a>
+<a href="https://github.com/defoibrahim/fetchr-app"><img width="400" align="top" alt="Fetchr" src="assets/projects/fetchr.png"/></a>
+<a href="https://github.com/defoibrahim/shiftwell-showcase"><img width="400" align="top" alt="ShiftWell" src="assets/projects/shiftwell.png"/></a>
+<a href="https://github.com/defoibrahim/radiusiq-showcase"><img width="400" align="top" alt="RadiusIQ" src="assets/projects/radius-crawler.png"/></a>
+<a href="https://github.com/defoibrahim/resumecraft-ai-showcase"><img width="400" align="top" alt="ResumeCraft AI" src="assets/projects/resumecraft-ai.png"/></a>
+<a href="https://github.com/defoibrahim/rms-showcase"><img width="400" align="top" alt="RMS" src="assets/projects/rms.png"/></a>
+<a href="https://github.com/defoibrahim/dsms-showcase"><img width="400" align="top" alt="DSMS" src="assets/projects/dsms-driving-school-management.png"/></a>
+<a href="https://github.com/defoibrahim/hrm-platform-showcase"><img width="400" align="top" alt="HRM Platform" src="assets/projects/hrm-platform.png"/></a>
+<a href="https://github.com/defoibrahim/yallapaysudan-flutter"><img width="400" align="top" alt="YallaPay Sudan Flutter SDK" src="assets/projects/yalla-pay-sudan-flutter-sdk.png"/></a>
+<a href="https://github.com/defoibrahim/marketpulse-flutter"><img width="400" align="top" alt="MarketPulse" src="assets/projects/marketpulse.png"/></a>
+
+<sub>Click any card to open the project. More on <a href="https://portfolio.everbuild.cloud/projects">portfolio.everbuild.cloud</a></sub>
+
+</div>
+
+### Client work
+
 | Product | What it does |
 | --- | --- |
-| [**RadiusIQ**](https://github.com/defoibrahim/radiusiq-showcase)<br/><sub>Next.js · NestJS · TypeScript · PostgreSQL</sub> | Pick any point on a map, set a 1–50 km radius, and discover every business inside it — results stored, sortable, filterable, exportable to CSV/XLSX |
-| [**ResumeCraft AI**](https://github.com/defoibrahim/resumecraft-ai-showcase)<br/><sub>Next.js · Prisma · Claude / GPT / Gemini</sub> | AI resume builder with an ATS scoring engine and multi-language PDF export |
-| [**DSMS**](https://github.com/defoibrahim/dsms-showcase)<br/><sub>NestJS · PostgreSQL · TypeORM</sub> | Driving school management — lesson and exam scheduling, certification workflows, RBAC and audit logging |
-| [**HRM Platform**](https://github.com/defoibrahim/hrm-platform-showcase)<br/><sub>NestJS · TypeScript · MySQL · PM2</sub> | Human resource management — employee lifecycle, attendance, leave, payroll, org hierarchy and audit trails |
 | **CleanApp SD**<br/><sub>Flutter · GetX · Firebase · Maps SDK</sub> | Three-app laundry ecosystem with QR-based order validation and geofenced assignment |
 | **OneMile**<br/><sub>Flutter · GetX · Maps SDK</sub> | Location-based offer discovery, optimised with cluster markers for dense data |
 | **HalalGo**<br/><sub>Flutter · Provider · Firebase</sub> | Halal food delivery for the Canadian market, with live delivery tracking |
-
-<div align="center">
-
-<a href="https://github.com/defoibrahim/flutter-quest-showcase"><img width="400" align="top" alt="flutter-quest-showcase" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=defoibrahim&description_lines_count=3&repo=flutter-quest-showcase&hide_border=true&title_color=007AFF&text_color=C9D1D9&icon_color=5856D6&bg_color=0D1117"/></a>
-<a href="https://github.com/defoibrahim/fetchr-app"><img width="400" align="top" alt="fetchr-app" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=defoibrahim&description_lines_count=3&repo=fetchr-app&hide_border=true&title_color=007AFF&text_color=C9D1D9&icon_color=5856D6&bg_color=0D1117"/></a>
-<a href="https://github.com/defoibrahim/shiftwell-showcase"><img width="400" align="top" alt="shiftwell-showcase" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=defoibrahim&description_lines_count=3&repo=shiftwell-showcase&hide_border=true&title_color=007AFF&text_color=C9D1D9&icon_color=5856D6&bg_color=0D1117"/></a>
-<a href="https://github.com/defoibrahim/radiusiq-showcase"><img width="400" align="top" alt="radiusiq-showcase" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=defoibrahim&description_lines_count=3&repo=radiusiq-showcase&hide_border=true&title_color=007AFF&text_color=C9D1D9&icon_color=5856D6&bg_color=0D1117"/></a>
-<a href="https://github.com/defoibrahim/resumecraft-ai-showcase"><img width="400" align="top" alt="resumecraft-ai-showcase" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=defoibrahim&description_lines_count=3&repo=resumecraft-ai-showcase&hide_border=true&title_color=007AFF&text_color=C9D1D9&icon_color=5856D6&bg_color=0D1117"/></a>
-<a href="https://github.com/defoibrahim/yallapaysudan-flutter"><img width="400" align="top" alt="yallapaysudan-flutter" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=defoibrahim&description_lines_count=3&repo=yallapaysudan-flutter&hide_border=true&title_color=007AFF&text_color=C9D1D9&icon_color=5856D6&bg_color=0D1117"/></a>
-
-</div>
 
 ---
 
