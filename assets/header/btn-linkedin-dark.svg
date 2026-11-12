@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 139 44" width="139" height="44" role="img" aria-label="LinkedIn">
+  <style>text { font-family: -apple-system,BlinkMacSystemFont,'SF Pro Display','Segoe UI',Helvetica,Arial,sans-serif; }</style>
+  <rect x="0.5" y="0.5" width="138" height="43" rx="21.5" fill="#1C1F24" stroke="#3D444D" stroke-width="1"/>
+  <g transform="translate(20 12)"><rect x="1.5" y="1.5" width="17" height="17" rx="3.5" fill="none" stroke="#58A6FF" stroke-width="1.8"/><path d="M6.3 8.6v5.8M10 14.4v-3.5c0-1.4 1-2.3 2.1-2.3s1.9.8 1.9 2.3v3.5M10 8.6v5.8" fill="none" stroke="#58A6FF" stroke-width="1.8" stroke-linecap="round"/><circle cx="6.3" cy="5.8" r="1.15" fill="#58A6FF"/></g>
+  <text x="49" y="27.5" font-size="16" font-weight="700" letter-spacing="0.3" fill="#58A6FF">LinkedIn</text>
+  
+</svg>

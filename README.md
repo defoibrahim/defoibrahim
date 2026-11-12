@@ -3,32 +3,19 @@ defoibrahim / README.md — "App Store" edition
 Renders on github.com/defoibrahim
 -->
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/header/header-dark.svg">
+  <img src="./assets/header/header-light.svg" width="100%" alt="Dafallah Ibrahim. Senior Software Engineer. App, backend and AI, end to end. Dubai, UAE. Open to Forward Deployed Engineer roles. 8+ years shipping, 6 self-hosted live demos, 150 of 160 pub points on pub.dev.">
+</picture>
+
+<p>
+<a href="https://portfolio.everbuild.cloud/dafallah-ibrahim-cv.pdf"><img src="./assets/header/btn-get-cv.svg" height="40" alt="Get my CV (PDF)"></a>&nbsp;
+<a href="https://portfolio.everbuild.cloud"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/header/btn-portfolio-dark.svg"><img src="./assets/header/btn-portfolio-light.svg" height="40" alt="Portfolio"></picture></a>&nbsp;
+<a href="https://linkedin.com/in/dafallah-ibrahim"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/header/btn-linkedin-dark.svg"><img src="./assets/header/btn-linkedin-light.svg" height="40" alt="LinkedIn"></picture></a>&nbsp;
+<a href="mailto:dafallah.ibrahim1@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/header/btn-email-dark.svg"><img src="./assets/header/btn-email-light.svg" height="40" alt="Email dafallah.ibrahim1@gmail.com"></picture></a>
+</p>
+
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:007AFF,50:5856D6,100:AF52DE&height=180&section=header&text=&fontSize=0" width="100%"/>
-
-<img src="https://github.com/defoibrahim.png" width="128" alt="Dafallah Ibrahim"/>
-
-<h1>Dafallah Ibrahim</h1>
-
-<p><b>Senior Software Engineer</b><br/>
-<sub>Flutter · NestJS · Next.js — and AI wired through all of it</sub></p>
-
-<p>
-<img src="https://img.shields.io/badge/1.5K-Contributions-30A14E?style=flat-square&labelColor=0D1117"/>
-<img src="https://img.shields.io/badge/Age-8%2B_Years-8B949E?style=flat-square&labelColor=0D1117"/>
-<img src="https://img.shields.io/badge/Location-Dubai,_UAE-8B949E?style=flat-square&labelColor=0D1117"/>
-</p>
-
-<p>
-<a href="https://app.flowcv.com/resume-feedback/80wmn1X23i6lB1E1PNHBI"><img src="https://img.shields.io/badge/GET-007AFF?style=for-the-badge&logoColor=white" height="34" alt="Resume"/></a>
-&nbsp;
-<a href="https://portfolio.everbuild.cloud"><img src="https://img.shields.io/badge/WEBSITE-1C1C1E?style=for-the-badge&logo=googlechrome&logoColor=white" height="34" alt="Portfolio"/></a>
-&nbsp;
-<a href="https://linkedin.com/in/dafallah-ibrahim"><img src="https://img.shields.io/badge/SHARE-1C1C1E?style=for-the-badge&logo=linkedin&logoColor=white" height="34" alt="LinkedIn"/></a>
-&nbsp;
-<a href="mailto:dafallah.ibrahim1@gmail.com"><img src="https://img.shields.io/badge/CONTACT-1C1C1E?style=for-the-badge&logo=gmail&logoColor=white" height="34" alt="Email"/></a>
-</p>
 
 <a href="https://github.com/DenverCoder1/readme-typing-svg">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3200&pause=900&color=007AFF&center=true&vCenter=true&width=700&lines=8%2B+years+shipping+mobile%2C+web+and+backend.;Now+building+with+AI+and+automation.;Claude%2C+GPT+and+Gemini+in+production.;Architects+the+whole+product%2C+then+ships+it." alt="Typing SVG"/>

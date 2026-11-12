@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 139 44" width="139" height="44" role="img" aria-label="Portfolio">
+  <style>text { font-family: -apple-system,BlinkMacSystemFont,'SF Pro Display','Segoe UI',Helvetica,Arial,sans-serif; }</style>
+  <rect x="0.5" y="0.5" width="138" height="43" rx="21.5" fill="#F2F4F7" stroke="#D1D9E0" stroke-width="1"/>
+  <g transform="translate(20 12)"><circle cx="10" cy="10" r="8.2" fill="none" stroke="#0969DA" stroke-width="1.8"/><ellipse cx="10" cy="10" rx="3.6" ry="8.2" fill="none" stroke="#0969DA" stroke-width="1.6"/><path d="M2 10h16" stroke="#0969DA" stroke-width="1.6"/></g>
+  <text x="49" y="27.5" font-size="16" font-weight="700" letter-spacing="0.3" fill="#0969DA">Portfolio</text>
+  
+</svg>

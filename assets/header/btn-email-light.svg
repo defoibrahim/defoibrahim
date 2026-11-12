@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 115 44" width="115" height="44" role="img" aria-label="Email">
+  <style>text { font-family: -apple-system,BlinkMacSystemFont,'SF Pro Display','Segoe UI',Helvetica,Arial,sans-serif; }</style>
+  <rect x="0.5" y="0.5" width="114" height="43" rx="21.5" fill="#F2F4F7" stroke="#D1D9E0" stroke-width="1"/>
+  <g transform="translate(20 12)"><rect x="1.5" y="3.5" width="17" height="13" rx="2.5" fill="none" stroke="#0969DA" stroke-width="1.8"/><path d="M2.5 5l7.5 6 7.5-6" fill="none" stroke="#0969DA" stroke-width="1.8" stroke-linejoin="round"/></g>
+  <text x="49" y="27.5" font-size="16" font-weight="700" letter-spacing="0.3" fill="#0969DA">Email</text>
+  
+</svg>

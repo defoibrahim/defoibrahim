@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 169 44" width="169" height="44" role="img" aria-label="GET CV · PDF">
+  <style>text { font-family: -apple-system,BlinkMacSystemFont,'SF Pro Display','Segoe UI',Helvetica,Arial,sans-serif; }</style>
+  <rect x="0.5" y="0.5" width="168" height="43" rx="21.5" fill="#0071E3"/>
+  <g transform="translate(20 12)"><path d="M4 1.5h8l4.5 4.5v12.5h-12.5z" fill="none" stroke="#FFFFFF" stroke-width="1.8" stroke-linejoin="round"/><path d="M12 1.5v4.5h4.5" fill="none" stroke="#FFFFFF" stroke-width="1.8" stroke-linejoin="round"/><path d="M10.2 8.5v6M7.6 12.2l2.6 2.6 2.6-2.6" fill="none" stroke="#FFFFFF" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></g>
+  <text x="49" y="27.5" font-size="16" font-weight="700" letter-spacing="0.3" fill="#FFFFFF">GET</text>
+  <text x="92.5" y="27" font-size="13" font-weight="500" fill="#FFFFFF">CV · PDF</text>
+</svg>
