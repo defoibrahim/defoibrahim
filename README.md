@@ -15,7 +15,6 @@ Renders on github.com/defoibrahim
 <sub>Flutter · NestJS · Next.js — and AI wired through all of it</sub></p>
 
 <p>
-<img src="https://img.shields.io/badge/★★★★★-4.9-FFB800?style=flat-square&labelColor=0D1117"/>
 <img src="https://img.shields.io/badge/1.5K-Contributions-30A14E?style=flat-square&labelColor=0D1117"/>
 <img src="https://img.shields.io/badge/Age-8%2B_Years-8B949E?style=flat-square&labelColor=0D1117"/>
 <img src="https://img.shields.io/badge/Location-Dubai,_UAE-8B949E?style=flat-square&labelColor=0D1117"/>
@@ -150,10 +149,10 @@ a lot of the heavy lifting in how I build now.
 
 | Product | What it does | Built with |
 |---|---|---|
-| **Radius Crawler** | Pick any point on a map, set a 1–50 km radius, and discover every business inside it — results stored, sortable, filterable, exportable to CSV/XLSX | Next.js · NestJS · TypeScript · PostgreSQL |
-| **ResumeCraft AI** | AI resume builder with an ATS scoring engine and multi-language PDF export | Next.js · Prisma · Claude / GPT / Gemini |
-| **DSMS** | Driving school management — lesson and exam scheduling, certification workflows, RBAC and audit logging | NestJS · PostgreSQL · TypeORM |
-| **HRM Platform** | Human resource management — employee lifecycle, attendance, leave, payroll, org hierarchy and audit trails | NestJS · TypeScript · MySQL · PM2 |
+| [**RadiusIQ**](https://github.com/defoibrahim/radiusiq-showcase) | Pick any point on a map, set a 1–50 km radius, and discover every business inside it — results stored, sortable, filterable, exportable to CSV/XLSX | Next.js · NestJS · TypeScript · PostgreSQL |
+| [**ResumeCraft AI**](https://github.com/defoibrahim/resumecraft-ai-showcase) | AI resume builder with an ATS scoring engine and multi-language PDF export | Next.js · Prisma · Claude / GPT / Gemini |
+| [**DSMS**](https://github.com/defoibrahim/dsms-showcase) | Driving school management — lesson and exam scheduling, certification workflows, RBAC and audit logging | NestJS · PostgreSQL · TypeORM |
+| [**HRM Platform**](https://github.com/defoibrahim/hrm-platform-showcase) | Human resource management — employee lifecycle, attendance, leave, payroll, org hierarchy and audit trails | NestJS · TypeScript · MySQL · PM2 |
 | **CleanApp SD** | Three-app laundry ecosystem with QR-based order validation and geofenced assignment | Flutter · GetX · Firebase · Maps SDK |
 | **OneMile** | Location-based offer discovery, optimised with cluster markers for dense data | Flutter · GetX · Maps SDK |
 | **HalalGo** | Halal food delivery for the Canadian market, with live delivery tracking | Flutter · Provider · Firebase |
