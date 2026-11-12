@@ -40,20 +40,15 @@ Renders on github.com/defoibrahim
 
 ## 🆕 &nbsp;What's New
 
-<table>
-<tr><td width="150" valign="top"><b>Version 9.0</b><br/><sub>Jul 2026</sub></td>
-<td>
+**Version 9.0** · <sub>Jul 2026</sub>
 
 ```diff
-+ Added  AI-native builds — Claude, GPT and Gemini wired into production systems
-+ Added  Automation pipelines — data crawlers, agents, containerised CI/CD
-+ Added  Full-stack product work on NestJS + Next.js + PostgreSQL
-~ Moved  From "Flutter developer" to "ships the whole product, end to end"
-- Fixed  Retired every dead Heroku badge from the 2022 build
++ Added  AI-native builds in production
++ Added  Crawlers, agents, CI/CD pipelines
++ Added  Full-stack: NestJS · Next.js · Postgres
+~ Moved  Flutter dev → ships the whole product
+- Fixed  Retired the dead 2022 Heroku badges
 ```
-
-</td></tr>
-</table>
 
 ---
 
@@ -139,32 +134,30 @@ a lot of the heavy lifting in how I build now.
 <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api?username=defoibrahim&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=007AFF&icon_color=5856D6&text_color=C9D1D9&bg_color=0D1117"/>
 <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=defoibrahim&layout=compact&langs_count=8&hide_border=true&title_color=007AFF&text_color=C9D1D9&bg_color=0D1117"/>
 
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=defoibrahim&custom_title=Build%20Activity&bg_color=0D1117&color=C9D1D9&line=007AFF&point=AF52DE&area=true&area_color=5856D6&hide_border=true&radius=8"/>
-
 </div>
 
 ---
 
 ## 📦 &nbsp;More By This Developer
 
-| Product | What it does | Built with |
-|---|---|---|
-| [**RadiusIQ**](https://github.com/defoibrahim/radiusiq-showcase) | Pick any point on a map, set a 1–50 km radius, and discover every business inside it — results stored, sortable, filterable, exportable to CSV/XLSX | Next.js · NestJS · TypeScript · PostgreSQL |
-| [**ResumeCraft AI**](https://github.com/defoibrahim/resumecraft-ai-showcase) | AI resume builder with an ATS scoring engine and multi-language PDF export | Next.js · Prisma · Claude / GPT / Gemini |
-| [**DSMS**](https://github.com/defoibrahim/dsms-showcase) | Driving school management — lesson and exam scheduling, certification workflows, RBAC and audit logging | NestJS · PostgreSQL · TypeORM |
-| [**HRM Platform**](https://github.com/defoibrahim/hrm-platform-showcase) | Human resource management — employee lifecycle, attendance, leave, payroll, org hierarchy and audit trails | NestJS · TypeScript · MySQL · PM2 |
-| **CleanApp SD** | Three-app laundry ecosystem with QR-based order validation and geofenced assignment | Flutter · GetX · Firebase · Maps SDK |
-| **OneMile** | Location-based offer discovery, optimised with cluster markers for dense data | Flutter · GetX · Maps SDK |
-| **HalalGo** | Halal food delivery for the Canadian market, with live delivery tracking | Flutter · Provider · Firebase |
+| Product | What it does |
+| --- | --- |
+| [**RadiusIQ**](https://github.com/defoibrahim/radiusiq-showcase)<br/><sub>Next.js · NestJS · TypeScript · PostgreSQL</sub> | Pick any point on a map, set a 1–50 km radius, and discover every business inside it — results stored, sortable, filterable, exportable to CSV/XLSX |
+| [**ResumeCraft AI**](https://github.com/defoibrahim/resumecraft-ai-showcase)<br/><sub>Next.js · Prisma · Claude / GPT / Gemini</sub> | AI resume builder with an ATS scoring engine and multi-language PDF export |
+| [**DSMS**](https://github.com/defoibrahim/dsms-showcase)<br/><sub>NestJS · PostgreSQL · TypeORM</sub> | Driving school management — lesson and exam scheduling, certification workflows, RBAC and audit logging |
+| [**HRM Platform**](https://github.com/defoibrahim/hrm-platform-showcase)<br/><sub>NestJS · TypeScript · MySQL · PM2</sub> | Human resource management — employee lifecycle, attendance, leave, payroll, org hierarchy and audit trails |
+| **CleanApp SD**<br/><sub>Flutter · GetX · Firebase · Maps SDK</sub> | Three-app laundry ecosystem with QR-based order validation and geofenced assignment |
+| **OneMile**<br/><sub>Flutter · GetX · Maps SDK</sub> | Location-based offer discovery, optimised with cluster markers for dense data |
+| **HalalGo**<br/><sub>Flutter · Provider · Firebase</sub> | Halal food delivery for the Canadian market, with live delivery tracking |
 
 <div align="center">
 
-<a href="https://github.com/defoibrahim/flutter-quest-showcase"><img width="45%" alt="flutter-quest-showcase" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=defoibrahim&repo=flutter-quest-showcase&hide_border=true&title_color=007AFF&text_color=C9D1D9&icon_color=5856D6&bg_color=0D1117"/></a>
-<a href="https://github.com/defoibrahim/fetchr-app"><img width="45%" alt="fetchr-app" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=defoibrahim&repo=fetchr-app&hide_border=true&title_color=007AFF&text_color=C9D1D9&icon_color=5856D6&bg_color=0D1117"/></a>
-<a href="https://github.com/defoibrahim/shiftwell-showcase"><img width="45%" alt="shiftwell-showcase" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=defoibrahim&repo=shiftwell-showcase&hide_border=true&title_color=007AFF&text_color=C9D1D9&icon_color=5856D6&bg_color=0D1117"/></a>
-<a href="https://github.com/defoibrahim/radiusiq-showcase"><img width="45%" alt="radiusiq-showcase" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=defoibrahim&repo=radiusiq-showcase&hide_border=true&title_color=007AFF&text_color=C9D1D9&icon_color=5856D6&bg_color=0D1117"/></a>
-<a href="https://github.com/defoibrahim/resumecraft-ai-showcase"><img width="45%" alt="resumecraft-ai-showcase" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=defoibrahim&repo=resumecraft-ai-showcase&hide_border=true&title_color=007AFF&text_color=C9D1D9&icon_color=5856D6&bg_color=0D1117"/></a>
-<a href="https://github.com/defoibrahim/yallapaysudan-flutter"><img width="45%" alt="yallapaysudan-flutter" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=defoibrahim&repo=yallapaysudan-flutter&hide_border=true&title_color=007AFF&text_color=C9D1D9&icon_color=5856D6&bg_color=0D1117"/></a>
+<a href="https://github.com/defoibrahim/flutter-quest-showcase"><img width="45%" align="top" alt="flutter-quest-showcase" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=defoibrahim&description_lines_count=3&repo=flutter-quest-showcase&hide_border=true&title_color=007AFF&text_color=C9D1D9&icon_color=5856D6&bg_color=0D1117"/></a>
+<a href="https://github.com/defoibrahim/fetchr-app"><img width="45%" align="top" alt="fetchr-app" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=defoibrahim&description_lines_count=3&repo=fetchr-app&hide_border=true&title_color=007AFF&text_color=C9D1D9&icon_color=5856D6&bg_color=0D1117"/></a>
+<a href="https://github.com/defoibrahim/shiftwell-showcase"><img width="45%" align="top" alt="shiftwell-showcase" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=defoibrahim&description_lines_count=3&repo=shiftwell-showcase&hide_border=true&title_color=007AFF&text_color=C9D1D9&icon_color=5856D6&bg_color=0D1117"/></a>
+<a href="https://github.com/defoibrahim/radiusiq-showcase"><img width="45%" align="top" alt="radiusiq-showcase" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=defoibrahim&description_lines_count=3&repo=radiusiq-showcase&hide_border=true&title_color=007AFF&text_color=C9D1D9&icon_color=5856D6&bg_color=0D1117"/></a>
+<a href="https://github.com/defoibrahim/resumecraft-ai-showcase"><img width="45%" align="top" alt="resumecraft-ai-showcase" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=defoibrahim&description_lines_count=3&repo=resumecraft-ai-showcase&hide_border=true&title_color=007AFF&text_color=C9D1D9&icon_color=5856D6&bg_color=0D1117"/></a>
+<a href="https://github.com/defoibrahim/yallapaysudan-flutter"><img width="45%" align="top" alt="yallapaysudan-flutter" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=defoibrahim&description_lines_count=3&repo=yallapaysudan-flutter&hide_border=true&title_color=007AFF&text_color=C9D1D9&icon_color=5856D6&bg_color=0D1117"/></a>
 
 </div>
 
@@ -178,11 +171,11 @@ a lot of the heavy lifting in how I build now.
 | **Category** | Full-Stack Engineering · AI & Automation · Mobile |
 | **Compatibility** | Flutter 3.x · Android · iOS · Node 18+ · PostgreSQL · Docker |
 | **Languages** | Dart, TypeScript, Python, Kotlin, Java, JavaScript, SQL |
-| **Size** | 8+ years · 56 repositories |
+| **Size** | 8+ years · 13 products shipped end to end |
 | **Location** | Dubai, United Arab Emirates 🇦🇪 |
 | **Website** | [portfolio.everbuild.cloud](https://portfolio.everbuild.cloud) |
 | **Certifications** | **Anthropic (2026)** — Claude Code in Action · Building with the Claude API · Introduction to Model Context Protocol · Introduction to Agent Skills<br/>**LinkedIn (2024)** — Software Architecture: Patterns for Developers |
-| **Currently** | Senior Flutter Developer @ Transport Systems, building AI-native products on the side |
+| **Currently** | Senior Software Engineer @ Transport Systems, building AI-native products on the side |
 | **Support** | [dafallah.ibrahim1@gmail.com](mailto:dafallah.ibrahim1@gmail.com) |
 
 ---
