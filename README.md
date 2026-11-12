@@ -30,11 +30,11 @@ Renders on github.com/defoibrahim
 **Version 9.0** · <sub>Jul 2026</sub>
 
 ```diff
-+ Added  AI-native builds in production
-+ Added  Crawlers, agents, CI/CD pipelines
-+ Added  Full-stack: NestJS · Next.js · Postgres
-~ Moved  Flutter dev → ships the whole product
-- Fixed  Retired the dead 2022 Heroku badges
++ AI-native builds in production
++ Crawlers, agents, CI/CD
++ NestJS · Next.js · Postgres
+~ Flutter dev → full product
+- Dead 2022 Heroku badges
 ```
 
 ---
@@ -119,7 +119,7 @@ a lot of the heavy lifting in how I build now.
 <div align="center">
 
 <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api?username=defoibrahim&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=007AFF&icon_color=5856D6&text_color=C9D1D9&bg_color=0D1117"/>
-<img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=defoibrahim&layout=compact&langs_count=8&hide_border=true&title_color=007AFF&text_color=C9D1D9&bg_color=0D1117"/>
+<img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=defoibrahim&hide=c%2B%2B,cmake,c&layout=compact&langs_count=8&hide_border=true&title_color=007AFF&text_color=C9D1D9&bg_color=0D1117"/>
 
 </div>
 
