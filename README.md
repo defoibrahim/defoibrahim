@@ -142,16 +142,16 @@ a lot of the heavy lifting in how I build now.
 
 <div align="center">
 
-<a href="https://github.com/defoibrahim/flutter-quest-showcase"><img width="400" align="top" alt="Flutter Quest" src="assets/projects/flutter-quest.png"/></a>
-<a href="https://github.com/defoibrahim/fetchr-app"><img width="400" align="top" alt="Fetchr" src="assets/projects/fetchr.png"/></a>
-<a href="https://github.com/defoibrahim/shiftwell-showcase"><img width="400" align="top" alt="ShiftWell" src="assets/projects/shiftwell.png"/></a>
-<a href="https://github.com/defoibrahim/radiusiq-showcase"><img width="400" align="top" alt="RadiusIQ" src="assets/projects/radius-crawler.png"/></a>
-<a href="https://github.com/defoibrahim/resumecraft-ai-showcase"><img width="400" align="top" alt="ResumeCraft AI" src="assets/projects/resumecraft-ai.png"/></a>
-<a href="https://github.com/defoibrahim/rms-showcase"><img width="400" align="top" alt="RMS" src="assets/projects/rms.png"/></a>
-<a href="https://github.com/defoibrahim/dsms-showcase"><img width="400" align="top" alt="DSMS" src="assets/projects/dsms-driving-school-management.png"/></a>
-<a href="https://github.com/defoibrahim/hrm-platform-showcase"><img width="400" align="top" alt="HRM Platform" src="assets/projects/hrm-platform.png"/></a>
-<a href="https://github.com/defoibrahim/yallapaysudan-flutter"><img width="400" align="top" alt="YallaPay Sudan Flutter SDK" src="assets/projects/yalla-pay-sudan-flutter-sdk.png"/></a>
-<a href="https://github.com/defoibrahim/marketpulse-flutter"><img width="400" align="top" alt="MarketPulse" src="assets/projects/marketpulse.png"/></a>
+<a href="https://github.com/defoibrahim/flutter-quest-showcase"><img width="400" align="top" alt="Flutter Quest" src="assets/projects/flutter-quest.png?v=2"/></a>
+<a href="https://github.com/defoibrahim/fetchr-app"><img width="400" align="top" alt="Fetchr" src="assets/projects/fetchr.png?v=2"/></a>
+<a href="https://github.com/defoibrahim/shiftwell-showcase"><img width="400" align="top" alt="ShiftWell" src="assets/projects/shiftwell.png?v=2"/></a>
+<a href="https://github.com/defoibrahim/radiusiq-showcase"><img width="400" align="top" alt="RadiusIQ" src="assets/projects/radius-crawler.png?v=2"/></a>
+<a href="https://github.com/defoibrahim/resumecraft-ai-showcase"><img width="400" align="top" alt="ResumeCraft AI" src="assets/projects/resumecraft-ai.png?v=2"/></a>
+<a href="https://github.com/defoibrahim/rms-showcase"><img width="400" align="top" alt="RMS" src="assets/projects/rms.png?v=2"/></a>
+<a href="https://github.com/defoibrahim/dsms-showcase"><img width="400" align="top" alt="DSMS" src="assets/projects/dsms-driving-school-management.png?v=2"/></a>
+<a href="https://github.com/defoibrahim/hrm-platform-showcase"><img width="400" align="top" alt="HRM Platform" src="assets/projects/hrm-platform.png?v=2"/></a>
+<a href="https://github.com/defoibrahim/yallapaysudan-flutter"><img width="400" align="top" alt="YallaPay Sudan Flutter SDK" src="assets/projects/yalla-pay-sudan-flutter-sdk.png?v=2"/></a>
+<a href="https://github.com/defoibrahim/marketpulse-flutter"><img width="400" align="top" alt="MarketPulse" src="assets/projects/marketpulse.png?v=2"/></a>
 
 <sub>Click any card to open the project. More on <a href="https://portfolio.everbuild.cloud/projects">portfolio.everbuild.cloud</a></sub>
 
